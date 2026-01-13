@@ -1,0 +1,2 @@
+Model: model_v1.pkl
+Accuracy: 1.0
